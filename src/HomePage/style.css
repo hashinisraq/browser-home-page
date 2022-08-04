@@ -1,0 +1,94 @@
+div {
+    background-color: #246666;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+
+#letter-1 {
+    color: rgb(26, 155, 172);
+    border: 1px solid black;
+    padding: 0 3px;
+    margin-right: 3px;
+}
+
+#letter-2 {
+    color: darkolivegreen;
+    border: 1px solid black;
+    padding: 0 3px;
+    margin-right: 3px;
+}
+
+#letter-3 {
+    color: rgb(192, 0, 38);
+    border: 1px solid black;
+    padding: 0 5px;
+    margin-right: 3px;
+}
+
+#letter-4 {
+    color: darkgreen;
+    border: 1px solid black;
+    padding: 0 3px;
+    margin-right: 3px;
+}
+
+#letter-5 {
+    color: rgb(255, 86, 29);
+    border: 1px solid black;
+    padding: 0 9px;
+    margin-right: 3px;
+}
+
+#letter-6 {
+    color: rgba(255, 0, 255, 0.726);
+    border: 1px solid black;
+    padding: 0 3px;
+    margin-right: 10px;
+    margin-right: 3px;
+}
+
+#letter-7 {
+    color: goldenrod;
+    border: 1px solid black;
+    padding: 0 9px;
+    margin-left: 10px;
+    margin-right: 3px;
+}
+
+#letter-8 {
+    color: grey;
+    border: 1px solid black;
+    padding: 0 5px;
+    margin-right: 3px;
+}
+
+#letter-9 {
+    color: indigo;
+    border: 1px solid black;
+    padding: 0 3px;
+    margin-right: 3px;
+}
+
+#letter-10 {
+    color: mediumslateblue;
+    border: 1px solid black;
+    padding: 0 3px;
+    margin-right: 3px;
+}
+
+#letter-11 {
+    color: tomato;
+    border: 1px solid black;
+    padding: 0 3px;
+    margin-right: 3px;
+}
+
+h2 {
+    color: rgba(255, 136, 0, 0.479);
+}
