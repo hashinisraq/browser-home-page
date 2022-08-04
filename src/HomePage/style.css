@@ -1,6 +1,7 @@
 div {
     background-color: #246666;
     padding: 20px;
+    margin: 0;
 }
 
 header {
@@ -90,10 +91,27 @@ header {
 }
 
 h2 {
+    text-align: center;
     color: black;
+}
+
+#container {
+    row-gap: 0;
 }
 
 .svg {
     margin: 0;
     padding: 0 110px;
+}
+
+footer {
+    text-align: center;
+    color: black;
+    margin: 0;
+    padding: 70px 0 20px 0;
+}
+
+#name a {
+    text-decoration: none;
+    color: black;
 }
