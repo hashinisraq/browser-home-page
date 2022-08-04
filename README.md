@@ -2,7 +2,7 @@
 
 The site can be found at the following addresses 🌐:
 
-- Main: <https://HI-Browser-Home-Page.netlify.com>
+- Main: <https://hi-browser-home-page.netlify.com>
 - Github: <https://github.com/hashinisraq/browser-home-page>
 
 ## Pre-requisites
