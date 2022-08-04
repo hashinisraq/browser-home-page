@@ -90,5 +90,10 @@ header {
 }
 
 h2 {
-    color: rgba(255, 136, 0, 0.479);
+    color: black;
+}
+
+.svg {
+    margin: 0;
+    padding: 0 110px;
 }
